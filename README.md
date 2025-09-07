@@ -25,13 +25,6 @@
   <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
 </p>
 
-      .--.   .--.   .--.   .--.   .--.   .--.   .--.   .--.  
-     / A  \ / N  \ / I  \ / R  \ / B  \ / A  \ / N  \ / C  \ 
-     |  H  |  A  |  N  |  D  |  R  |  A  |     |     |  A  | 
-     \    / \    / \    / \    / \    / \    / \    / \    /  
-
-                   Anirban Chandra
-
 
 <!-- 🔥 Typing SVG (optional, animated subtitle) -->
 <h1 align="center">
@@ -46,6 +39,18 @@
   <a href="https://x.com/Anirban_1800d"><img src="https://img.shields.io/badge/Twitter-FF00FF?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:chandraanirban100@gmail.com"><img src="https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=black"/></a>
 </p>
+
+
+### 🔥 My Name Banner  
+```text
+      .--.   .--.   .--.   .--.   .--.   .--.   .--.   .--.   .--.   .--.   .--.  
+     / A  \ / N  \ / I  \ / R  \ / B  \ / A  \ / N  \ / C  \ / H  \ / A  \ / N  \ 
+     |  I  |  R  |  B  |  A  |  N  |     |  C  |  H  |  A  |  N  |  D  |  R  |  A  | 
+     \    / \    / \    / \    / \    / \    / \    / \    / \    / \    / \    /  
+
+                          ✨ Anirban Chandra ✨
+
+
 
 ---
 
