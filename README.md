@@ -25,20 +25,13 @@
   <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
 </p>
 
----
+      .--.   .--.   .--.   .--.   .--.   .--.   .--.   .--.  
+     / A  \ / N  \ / I  \ / R  \ / B  \ / A  \ / N  \ / C  \ 
+     |  H  |  A  |  N  |  D  |  R  |  A  |     |     |  A  | 
+     \    / \    / \    / \    / \    / \    / \    / \    /  
 
-<!-- 🔥 ASCII Banner -->
-<pre align="center">
+                   Anirban Chandra
 
-  .----.  .----.  .----.  .----.  .----.  .----.
- /  A   \/  N   \/  I   \/  R   \/  B   \/  A   \
-|   N    |   C   |   H   |   A   |   N   |   D   |
- \_____/  \_____/  \_____/  \_____/  \_____/  \_____/
-                     Anirban Chandra
-
-</pre>
-
----
 
 <!-- 🔥 Typing SVG (optional, animated subtitle) -->
 <h1 align="center">
